@@ -17,3 +17,5 @@ Language: C (Embedded C)
 Protocols: Modbus RTU, UART (RS232/RS485)
 Development Environment: STM32CubeIDE / HAL Library.
 
+
+<img width="1017" height="735" alt="image" src="https://github.com/user-attachments/assets/3aabfde6-cc8b-4756-9a20-29513b56008a" />
